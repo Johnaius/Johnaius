@@ -52,3 +52,24 @@ function maps(x){
     return false
   }
 }
+
+//Invert values
+
+function invert(array) {
+   return array.map(x=>x*-1) ;
+}
+
+//A Needle in the Haystack
+
+
+function findNeedle(haystack) {
+let needle = haystack.filter(needle => needle === "needle").toString()
+let index = haystack.indexOf('needle')
+return `found the ${needle} at position ${index}`
+}
+
+//Convert a Boolean to a String
+
+function booleanToString(b){
+return `${b}`
+}
