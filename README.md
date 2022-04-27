@@ -17,7 +17,7 @@ I am a full-stack software engineer with a background in education and a passion
 
 
 
-![April's GitHub stats](https://github-readme-stats.vercel.app/api?username=April-Yuen&show_icons=true&theme=radical)
+![Johnaius' GitHub stats](https://github-readme-stats.vercel.app/api?username=Johanius&show_icons=true&theme=radical)
 
 ### How To Reach Me
 [![Twitter Badge](https://img.shields.io/badge/-@Johnaius-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Johnaius)](https://twitter.com/Johnaius) 
