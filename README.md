@@ -1,9 +1,9 @@
 <!-- ![JohnZ](https://github.com/Johnaius/Johnaius/blob/main/JZBanner.gif) -->
-<img align="center" src="https://github.com/Johnaius/Johnaius/blob/main/JZBanner.gif" width="850" />
+<img align="center" src="https://github.com/Johnaius/Johnaius/blob/main/JZBAnner.gif" width="850" />
 
 ### About Me
 
-I am a full-stack software engineer with a background in education and a passion for problem solving. Throughout my career I have had a knack for building new projects, being a team player, and thinking on my toes. 
+I am a full-stack software engineer who deveoped a passion for helping people while working as a chemical dependency counselor. I have experience building applications and websites from scratch for clients, being a part of large and small teams, and kicking some serious butt. 
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -17,7 +17,7 @@ I am a full-stack software engineer with a background in education and a passion
 
 
 
-![Johnaius' GitHub stats](https://github-readme-stats.vercel.app/api?username=Johanius&show_icons=true&theme=radical)
+![Johnaius' GitHub stats](https://git /api?username=Johanius&show_icons=true&theme=radical)
 
 ### How To Reach Me
 [![Twitter Badge](https://img.shields.io/badge/-@Johnaius-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Johnaius)](https://twitter.com/Johnaius) 
