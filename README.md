@@ -15,7 +15,37 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
-
+## Projects
+<table>
+ <tbody>
+   <tr>
+   <td>
+       <a href="#"><img src="#" width="350" /><br>
+       <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
+       <a href="#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
+    </td>
+    <td>
+        <a href="#"><img src="#" width = "350"/><br>
+        <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
+        <a href="https://barcoderevised.netlify.app/"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
+     </td>
+  
+   </tr>
+     <tr>
+    <td>
+        <a href="#"><img src="#" width = "350"/><br>
+        <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
+        <a href="https://marsroverapi.netlify.app/"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
+    </td>
+      <td>
+        <a href="#"><img src="#" width = "350"/><br>
+        <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
+        <a href="https://nasaapodapi1.netlify.app/"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
+      </td>
+   </tr>
+   </tbody>
+</table>
+<!-- <img src="https://github.com/April-Yuen/April-Yuen/blob/main/CineFactsRevised2.gif" width="350" /> -->
 
 ![Johnaius' GitHub stats](https://git /api?username=Johanius&show_icons=true&theme=radical)
 
