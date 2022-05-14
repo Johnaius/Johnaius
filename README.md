@@ -1,5 +1,5 @@
 <!-- ![JohnZ](https://github.com/Johnaius/Johnaius/blob/main/JZBanner.gif) -->
-<img align="center" src="https://github.com/Johnaius/Johnaius/blob/main/JZBanner.gif" width="850" />
+<img align="center" src="https://github.com/Johnaius/Johnaius/blob/main/JZBAnner.gif" width="850" />
 
 ### About Me
 
