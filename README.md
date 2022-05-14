@@ -47,7 +47,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
 </table>
 <!-- <img src="https://github.com/April-Yuen/April-Yuen/blob/main/CineFactsRevised2.gif" width="350" /> -->
 
-![Johnaius' GitHub stats](https://git /api?username=Johanius&show_icons=true&theme=radical)
+![Johnaius' GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnaius&show_icons=true&theme=radical)
 
 ### How To Reach Me
 [![Twitter Badge](https://img.shields.io/badge/-@Johnaius-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Johnaius)](https://twitter.com/Johnaius) 
@@ -57,4 +57,4 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
 <!---
 Johnaius/Johnaius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---
