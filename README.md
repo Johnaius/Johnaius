@@ -3,7 +3,7 @@
 
 ### About Me
 
-I am a full-stack software engineer with a background in education and a passion for problem solving. Throughout my career I have had a knack for building new projects, being a team player, and thinking on my toes. 
+I am a full-stack software engineer who deveoped a passion for helping people while working as a chemical dependency counselor. I have experience building applications and websites from scratch for clients, being a part of large and small teams, and kicking some serious butt. 
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
