@@ -16,36 +16,84 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
 ## Projects
-<table>
- <tbody>
+<table bordercolor="#66b2b2">
+<tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Mark's Lawn Service</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="MarkGIf.gif" width="100%" alt="Mark Lawn"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Johnaius" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3>
+        <br />
+      <a target="_blank" href="portGif.gif">
+            <img src="portGif.gif" width="100%"  alt="Portfolio"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Johnaius/portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://barcoderevised.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong></strong> - </p>
+    </td>
+  </tr>
    <tr>
-   <td>
-       <a href="#"><img src="MarkGIf.gif" width="350" /><br>
-       <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
-       <a href="#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
+    <td width="50%" valign="top">
+      <h3 align="center">re:mind</h3>
+      <br />
+        <a target="_blank" href="#">
+          <img src="#" width="100%" alt="re:mind"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://teacher-notebook-database.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong></p>
     </td>
-    <td>
-        <a href="#"><img src="portGif.gif" width = "350"/><br>
-        <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
-        <a href="https://barcoderevised.netlify.app/"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
-     </td>
-  
-   </tr>
-     <tr>
-    <td>
-        <a href="#"><img src="https://github.com/Johnaius/Johnaius/blob/main/portGif.gif?raw=true" width = "350"/><br>
-        <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
-        <a href="https://marsroverapi.netlify.app/"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
+    <td width="50%" valign="top">
+      <h3 align="center">NASA Picture of the Day</h3>
+        <br />
+        <a target="_blank" href="">
+          <img src="nasaapod.gif" width="100%" alt="Picures from NASA Satellites"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong></p>
     </td>
-      <td>
-        <a href="#"><img src="#" width = "350"/><br>
-        <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
-        <a href="https://nasaapodapi1.netlify.app/"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
-      </td>
-   </tr>
-   </tbody>
+  </tr>
 </table>
-<!-- <img src="https://github.com/April-Yuen/April-Yuen/blob/main/CineFactsRevised2.gif" width="350" /> -->
+
 
 ![Johnaius' GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnaius&show_icons=true&theme=radical)
 
