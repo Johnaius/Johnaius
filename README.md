@@ -39,7 +39,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
         <br />
-      <a target=https://johnaius.netlify.app/" href="portGif.gif">
+      <a target=https://johnaius.netlify.app/" href="https://johnaius.netlify.app/">
             <img src="portGif.gif" width="100%"  alt="Portfolio"/>
         </a>
         <br />
