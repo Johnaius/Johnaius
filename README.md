@@ -55,7 +55,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
         <p><strong></strong>  </p>
     </td>
   </tr>
-   <tr>
+   <!-- <tr>
     <td width="50%" valign="top">
       <h3 align="center">re:mind</h3>
       <br />
@@ -82,7 +82,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <!-- <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="" target="_blank">
@@ -91,7 +91,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
       </p>
         <p><strong></p>
     </td>
-  </tr>
+  </tr> --> -->
 </table>
 
 
