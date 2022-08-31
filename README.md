@@ -2,7 +2,7 @@
 <img align="center" src="https://github.com/Johnaius/Johnaius/blob/main/JZBAnner.gif" width="850" />
 
 ### About Me
-
+s
 I am a full-stack software engineer who deveoped a passion for helping people while working as a chemical dependency counselor. I have experience building applications and websites from scratch for clients, being a part of large and small teams, and kicking some serious butt. 
 
 ### Technologies
@@ -29,7 +29,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
           
   <a href="https://github.com/Johnaius" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
+  </a>
   <!-- <a href="https://markslawnmowing.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a> -->
@@ -91,7 +91,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
       </p>
         <p><strong></p>
     </td>
-  </tr> --> -->
+  </tr> --> 
 </table>
 
 
