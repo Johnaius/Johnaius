@@ -21,7 +21,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
     <td width="50%" valign="top">
       <h3 align="center">Mark's Lawn Service</h3>
         <br />
-        <a target="_blank" href="#">
+        <a target="https://markslawnmowing.netlify.app/" href="#">
             <img src="MarkGIf.gif" width="100%" alt="Mark Lawn"/>
         </a>
         <br />
@@ -30,7 +30,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
   <a href="https://github.com/Johnaius" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://markslawnmowing.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -39,7 +39,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
         <br />
-      <a target="_blank" href="portGif.gif">
+      <a target=https://johnaius.netlify.app/" href="portGif.gif">
             <img src="portGif.gif" width="100%"  alt="Portfolio"/>
         </a>
         <br />
@@ -48,7 +48,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
   <a href="https://github.com/Johnaius/portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://barcoderevised.netlify.app/" target="_blank">
+  <a href="https://johnaius.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -67,7 +67,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://teacher-notebook-database.herokuapp.com/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -77,7 +77,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
       <h3 align="center">NASA Picture of the Day</h3>
         <br />
         <a target="_blank" href="">
-          <img src="nasaapod.gif" width="100%" alt="Picures from NASA Satellites"/>
+          <img src="" width="100%" alt="Picures from NASA Satellites"/>
         </a>
         <br />
         <p align="center">
