@@ -21,7 +21,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
     <td width="50%" valign="top">
       <h3 align="center">Mark's Lawn Service</h3>
         <br />
-        <a target="https://markslawnmowing.netlify.app/" href="#">
+        <a target="https://markslawnmowing.netlify.app/" href="https://markslawnmowing.netlify.app/>
             <img src="MarkGIf.gif" width="100%" alt="Mark Lawn"/>
         </a>
         <br />
@@ -30,16 +30,16 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
   <a href="https://github.com/Johnaius" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://markslawnmowing.netlify.app/" target="_blank">
+  <!-- <a href="https://markslawnmowing.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+  </a> -->
       </p>
         <p><strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
         <br />
-      <a target=https://johnaius.netlify.app/" href="https://johnaius.netlify.app/">
+      <a target=https://johnaius.netlify.app/" href="https://johnaius.netlify.app/git a">
             <img src="portGif.gif" width="100%"  alt="Portfolio"/>
         </a>
         <br />
@@ -48,9 +48,9 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
   <a href="https://github.com/Johnaius/portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://johnaius.netlify.app/" target="_blank">
+  <!-- <a href="https://johnaius.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+  </a> -->
       </p>
         <p><strong></strong> - </p>
     </td>
