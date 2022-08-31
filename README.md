@@ -21,7 +21,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
     <td width="50%" valign="top">
       <h3 align="center">Mark's Lawn Service</h3>
         <br />
-        <a target="https://markslawnmowing.netlify.app/" href="https://markslawnmowing.netlify.app/>
+        <a target="https://markslawnmowing.netlify.app/" href="https://markslawnmowing.netlify.app/">
             <img src="MarkGIf.gif" width="100%" alt="Mark Lawn"/>
         </a>
         <br />
