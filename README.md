@@ -56,7 +56,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
     </td>
   </tr>
    <tr>
-    <td width="40%" valign="top">
+    <td width="30%" valign="bottom">
       <h3 align="center">DevDays</h3>
       <br />
         <a target="https://teamasaurus-devdays.herokuapp.com/" href="https://teamasaurus-devdays.herokuapp.com/">
