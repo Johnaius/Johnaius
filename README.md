@@ -15,85 +15,60 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johnaius&hide_border=true&theme=tokyonight_duo">
+</div>
+
 ## Projects
+<div align="center">
+  <table>
+      <tr>
+      <td width="50%">
+          <h3 align="center">DoYou 7-5-3-1</h3>
+          <p align="center">
+            <a href="https://doyou.up.railway.app/" target="_blank" rel="noreferrer"> <img src="doyou.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/Johnaius/doYou" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> </span>
+            <p align="center">
+              Inspired by Working with clients in Recovery to begin focusing on positive contributions daily.  To combat the "I suck" and "I can't" attidudes.
+            </p>
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">DevDays</h3>
+          <p align="center">
+            <a href="https://teamasaurus-devdays.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="devdays.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/Teamasaurus/devday" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://teamasaurus-devdays.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+            This was an exercise in Teamwork with a few developers. We made a journal built with MVC arciteture using Node.js, Express.js, MongoDB and EJS
+            </p>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Mark's Lawn Service</h3>
+          <p align="center">
+            <a href="https://markslawnmowing.netlify.app/" target="_blank" rel="noreferrer"> <img src="MarkGif.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/johniaus" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://markslawnmowing.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a></span>
+            <p align="center">
+            </p>
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">Portfolio</h3>
+          <p align="center">
+            <a href="https://johnaius.netlify.app/" target="_blank" rel="noreferrer"> <img src="portGif.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/Johnaius/portfolio target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://johnaius.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+            </p>
+          </p>
+        </td>
+      </tr>
+  </table>
+</div>
 <table bordercolor="#66b2b2">
 <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Mark's Lawn Service</h3>
-        <br />
-        <a target="https://markslawnmowing.netlify.app/" href="https://markslawnmowing.netlify.app/">
-            <img src="MarkGIf.gif" width="100%" alt="Mark Lawn"/>
-        </a>
-        <br />
-        <p align="center">
-          
- <a href="https://github.com/Johnaius" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <!-- <a href="https://markslawnmowing.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a> -->
-      </p>
-        <p><strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
-        <br />
-      <a target="https://johnaius.netlify.app/" href="https://johnaius.netlify.app/git">
-            <img src="portGif.gif" width="100%"  alt="Portfolio"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Johnaius/portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <!-- <a href="https://johnaius.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a> -->
-      </p>
-        <p><strong></p>
-    </td>   
-    <td width="50%" valign="top">
-      <h3 align="center">DevDays</h3>
-        <br />
-        <a target="https://teamasaurus-devdays.herokuapp.com/" href="https://teamasaurus-devdays.herokuapp.com/">
-            <img src="devdays.gif" width="100%" alt="devdays"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Teamasaurus/devdays" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <!-- <a href="https://markslawnmowing.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a> -->
-      </p>
-        <p><strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">DoYou 7-5-3-1</h3>
-        <br />
-      <a target="https://doyou.up.railway.app/" href="https://doyou.up.railway.app/">
-            <img src="DoYou.gif" width="100%"  alt="doyou"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Johnaius/doYou" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <!-- <a href="https://johnaius.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a> -->
-      </p>
-        <p><strong> </p>
-    </td>
-  </tr>
-</table>
-
-
+   
 ![Johnaius' GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnaius&show_icons=true&theme=radical)
 
 ### How To Reach Me
