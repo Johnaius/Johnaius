@@ -54,8 +54,6 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
       </p>
         <p><strong></strong>  </p>
     </td>
-  </tr>
-   <tr>
     <td width="30%" >
       <h3 align="center">DevDays</h3>
       <br />
@@ -70,8 +68,6 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
   </p>
         <p><strong></strong>  </p>
     </td>
-  </tr>
-   <tr>
     <td width="50%" valign="top">
       <h3 align="center">DoYou</h3>
       <br />
