@@ -68,7 +68,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
    <tr>
-    <td width="50%" valign="top">
+    <td width="48%" valign="top">
       <h3 align="center">DoYou</h3>
       <br />
         <a target=https://doyou.up.railway.app/" href="https://doyou.up.railway.app/">
