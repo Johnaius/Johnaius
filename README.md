@@ -27,7 +27,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
         <br />
         <p align="center">
           
-  <a href="https://github.com/Johnaius" target="_blank">
+ <a href="https://github.com/Johnaius" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <!-- <a href="https://markslawnmowing.netlify.app/" target="_blank">
@@ -52,7 +52,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a> -->
       </p>
-        <p><strong></strong>  </p>
+        <p><strong></p>
     </td>   
     <td width="50%" valign="top">
       <h3 align="center">DevDays</h3>
@@ -88,28 +88,9 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a> -->
       </p>
-        <p><strong></strong>  </p>
+        <p><strong> </p>
     </td>
   </tr>
-    <!-- <td width="50%" valign="top">
-      <h3 align="center">NASA Picture of the Day</h3>
-        <br />
-        <a target="_blank" href="">
-          <img src="" width="100%" alt="Picures from NASA Satellites"/>
-        </a>
-        <br />
-        <p align="center"> -->
-          
-  <!-- <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong></p>
-    </td>
-  </tr> --> 
 </table>
 
 
