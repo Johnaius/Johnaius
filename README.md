@@ -26,8 +26,8 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
       <td width="50%">
           <h3 align="center">DoYou 7-5-3-1</h3>
           <p align="center">
-            <a href="https://doyou.up.railway.app/" target="_blank" rel="noreferrer"> <img src="doyou.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/Johnaius/doYou" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> </span>
+            <a href="https://doyou.up.railway.app/" target="_blank" rel="noreferrer"> <img src="DoYou.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/Johnaius/doYou" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> </span>
             <p align="center">
               Inspired by Working with clients in Recovery to begin focusing on positive contributions daily.  To combat the "I suck" and "I can't" attidudes.
             </p>
@@ -37,7 +37,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
           <h3 align="center">DevDays</h3>
           <p align="center">
             <a href="https://teamasaurus-devdays.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="devdays.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/Teamasaurus/devday" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://teamasaurus-devdays.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/Teamasaurus/devday" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://teamasaurus-devdays.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
             This was an exercise in Teamwork with a few developers. We made a journal built with MVC arciteture using Node.js, Express.js, MongoDB and EJS
             </p>
@@ -48,8 +48,8 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
         <td width="50%">
           <h3 align="center">Mark's Lawn Service</h3>
           <p align="center">
-            <a href="https://markslawnmowing.netlify.app/" target="_blank" rel="noreferrer"> <img src="MarkGif.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/johniaus" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://markslawnmowing.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a></span>
+            <a href="https://markslawnmowing.netlify.app/" target="_blank" rel="noreferrer"> <img src="MarkGIf.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/johniaus" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://markslawnmowing.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a></span>
             <p align="center">
             </p>
           </p>
@@ -58,7 +58,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
           <h3 align="center">Portfolio</h3>
           <p align="center">
             <a href="https://johnaius.netlify.app/" target="_blank" rel="noreferrer"> <img src="portGif.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/Johnaius/portfolio target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://johnaius.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/Johnaius/portfolio" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://johnaius.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
             </p>
           </p>
