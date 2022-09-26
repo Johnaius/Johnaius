@@ -34,7 +34,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a> -->
       </p>
-        <p><strong></p>
+
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
@@ -52,7 +52,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a> -->
       </p>
-        <p><strong></strong>  </p>
+       
     </td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
       <h3 align="center">DoYou</h3>
       <br />
         <a target=https://doyou.up.railway.app/" href="https://doyou.up.railway.app/">
-          <img src="DoYou.gif" width="100%" alt="DoYou"/>
+          <img src="DoYou.gif" width="98%" alt="DoYou"/>
         </a>
       <br />
         <p align="center">
@@ -72,7 +72,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
       <h3 align="center">DevDays</h3>
       <br />
         <a target="https://teamasaurus-devdays.herokuapp.com/" href="https://teamasaurus-devdays.herokuapp.com/">
-          <img src="logoanimate.gif" width="100%" alt="DevDays"/>
+          <img src="logoanimate.gif" width="98%" alt="DevDays"/>
         </a>
       <br />
         <p align="center">
@@ -86,14 +86,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
       </p>
         <p><strong></p>
     </td>
-    <!-- <td width="50%" valign="top">
-      <h3 align="center">NASA Picture of the Day</h3>
-        <br />
-        <a target="_blank" href="">
-          <img src="" width="100%" alt="Picures from NASA Satellites"/>
-        </a>
-        <br />
-        <p align="center"> -->
+   
           
   <!-- <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
