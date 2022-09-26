@@ -27,7 +27,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
           <h3 align="center">DoYou 7-5-3-1</h3>
           <p align="center">
             <a href="https://doyou.up.railway.app/" target="_blank" rel="noreferrer"> <img src="DoYou.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/Johnaius/doYou" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> </span>
+            <span> <a href="https://github.com/Johnaius/doYou" target="_blank" rel="noreferrer"></br><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> </span>
             <p align="center">
               Inspired by working with people in recovery to combat the "I suck" and "I can't" attidudes.
             </p>
