@@ -54,7 +54,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
       </p>
         <p><strong></strong>  </p>
     </td>
-    <td width="30%" >
+    <td width="50%" valign="top" >
       <h3 align="center">DevDays</h3>
       <br />
         <a target="https://teamasaurus-devdays.herokuapp.com/" href="https://teamasaurus-devdays.herokuapp.com/">
@@ -62,6 +62,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
         </a>
       <br />
         <p align="center">
+
   <a href="https://github.com/Teamasaurus/devdays" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -76,6 +77,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
         </a>
       <br />
         <p align="center">
+        
   <a href="https://github.com/Johnaius/doYou" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
