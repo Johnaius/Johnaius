@@ -55,19 +55,6 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
         <p><strong></strong>  </p>
     </td>
   </tr>
-   <tr>
-    <td width="30%" >
-      <h3 align="center">DevDays</h3>
-      <br />
-        <a target="https://teamasaurus-devdays.herokuapp.com/" href="https://teamasaurus-devdays.herokuapp.com/">
-          <img src="logoanimate.gif" width="100%" alt="DevDays"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/Teamasaurus/devdays" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  </p>
         <p><strong></strong>  </p>
     </td>
   </tr>
@@ -90,11 +77,11 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
         <p><strong></strong>  </p>
     </td>
   </tr>
-    <!-- <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">NASA Picture of the Day</h3>
         <br />
         <a target="_blank" href="">
-          <img src="" width="100%" alt="Picures from NASA Satellites"/>
+          <img src="logoanimate.gif" width="100%" alt="Picures from NASA Satellites"/>
         </a>
         <br />
         <p align="center"> -->
@@ -108,7 +95,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
       </p>
         <p><strong></p>
     </td>
-  </tr> --> 
+  </tr> 
 </table>
 
 
