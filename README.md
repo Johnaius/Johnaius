@@ -56,7 +56,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
     </td>
   </tr>
    <tr>
-    <td width="30%" valign="bottom">
+    <td width="30%" >
       <h3 align="center">DevDays</h3>
       <br />
         <a target="https://teamasaurus-devdays.herokuapp.com/" href="https://teamasaurus-devdays.herokuapp.com/">
@@ -68,12 +68,11 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   </p>
-        </p>
         <p><strong></strong>  </p>
     </td>
   </tr>
    <tr>
-    <td width="40%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">DoYou</h3>
       <br />
         <a target=https://doyou.up.railway.app/" href="https://doyou.up.railway.app/">
@@ -87,7 +86,6 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
   <!-- <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a> -->
-       </p>
         </p>
         <p><strong></strong>  </p>
     </td>
