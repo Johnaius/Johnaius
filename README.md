@@ -36,7 +36,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
       </p>
         <p><strong></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="bottom">
       <h3 align="center">Portfolio</h3>
         <br />
       <a target=https://johnaius.netlify.app/" href="https://johnaius.netlify.app/git a">
@@ -54,7 +54,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
       </p>
         <p><strong></strong>  </p>
     </td>
-    <td width="50%" valign="top" >
+    <td width="50%" valign="bottom" >
       <h3 align="center">DevDays</h3>
       <br />
         <a target="https://teamasaurus-devdays.herokuapp.com/" href="https://teamasaurus-devdays.herokuapp.com/">
@@ -77,7 +77,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
         </a>
       <br />
         <p align="center">
-        
+
   <a href="https://github.com/Johnaius/doYou" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
