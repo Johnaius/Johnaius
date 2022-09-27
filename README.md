@@ -16,7 +16,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johnaius&hide_border=true&theme=tokyonight_duo">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johnaius&hide_border=true&theme=merko">
 </div>
 
 ## Projects
@@ -69,7 +69,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
 <table bordercolor="#66b2b2">
 <tr>
    
-![Johnaius' GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnaius&show_icons=true&theme=radical)
+<!-- ![Johnaius' GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnaius&show_icons=true&theme=radical) -->
 
 ### How To Reach Me
 [![Twitter Badge](https://img.shields.io/badge/-@Johnaius-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Johnaius)](https://twitter.com/Johnaius) 
