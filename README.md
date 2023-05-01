@@ -33,6 +33,15 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
             </p>
           </p>
         </td>
+           <td width="50%">
+          <h3 align="center">Portfolio</h3>
+          <p align="center">
+            <a href="https://reversehibernation.netlify.app/" target="_blank" rel="noreferrer"> <img src="RHdesign.jpg" alt="project example"/> </a>
+            <span> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://reversehibernation.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+            </p>
+          </p>
+        </td>
         <td width="50%">
           <h3 align="center">Re:Mind</h3>
           <p align="center">
@@ -43,26 +52,17 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
             </p>
           </p>
         </td>
-      </tr>
-      <tr>
         <td width="50%">
-          <h3 align="center">Client with a private practice</h3>
+          <h3 align="center">Freelance</h3>
           <p align="center">
             <a href="https://alisonifs.com/" target="_blank" rel="noreferrer"> <img src="02.jpg" alt="project example"/> </a>
             <span> <a href="https://github.com/johniaus" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://alisonifs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a></span>
-            <p align="center">
+            <p align="center">Static website built for a therapist.  I learned alot about the importance of customer service and communication with clietns.
             </p>
           </p>
         </td>
-        <td width="50%">
-          <h3 align="center">Portfolio</h3>
-          <p align="center">
-            <a href="https://reversehibernation.netlify.app/" target="_blank" rel="noreferrer"> <img src="RHdesign.jpg" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"></a> <a href="https://reversehibernation.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"></a> </span>
-            <p align="center">
-            </p>
-          </p>
-        </td>
+
+     
       </tr>
   </table>
 </div>
