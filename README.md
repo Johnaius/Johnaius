@@ -43,6 +43,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
             </p>
           </p>
         </td>
+        <tr>
         <td width="50%">
           <h3 align="center">Re:Mind</h3>
           <p align="center">
@@ -53,6 +54,8 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
             </p>
           </p>
         </td>
+        </tr>
+        <tr>
         <td width="50%">
           <h3 align="center">Freelance</h3>
           <p align="center">
@@ -62,6 +65,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
             </p>
           </p>
         </td>
+        </tr>
 
      
       </tr>
