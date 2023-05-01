@@ -33,7 +33,6 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
             </p>
           </p>
         </td>
-        
            <td width="50%">
           <h3 align="center">Portfolio</h3>
           <p align="center">
@@ -66,13 +65,10 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
           </p>
         </td>
         </tr>
-
-     
-      </tr>
   </table>
 </div>
 <table bordercolor="#66b2b2">
-<tr>
+
    
 <!-- ![Johnaius' GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnaius&show_icons=true&theme=radical) -->
 
