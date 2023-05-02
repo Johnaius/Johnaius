@@ -43,7 +43,7 @@ I am a full-stack software engineer who deveoped a passion for helping people wh
           </p>
         </td>
         <tr>
-        <td width="50%">
+        <td width="49%">
           <h3 align="center">Re:Mind</h3>
           <p align="center">
             <a href="https://remind-workout.cyclic.app/" target="_blank" rel="noreferrer"> <img src="03.jpg" alt="project example"/> </a>
